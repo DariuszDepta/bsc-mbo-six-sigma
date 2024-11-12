@@ -1,6 +1,6 @@
 # (no title yet)
 
-### What is BSC?
+## What is BSC?
 
 The Balanced Scorecard (BSC) is a strategic management tool that helps organizations translate their vision and strategy
 into a set of performance measures across four key perspectives. Developed in the early 1990s by Robert Kaplan and David Norton,
@@ -34,7 +34,7 @@ combining both leading (predictive) and lagging (historical) indicators. This pr
 view of the organization’s health, aligns day-to-day work with strategic objectives,
 and facilitates better decision-making across all levels of the organization.
 
-### Is it possible to use balanced scorecard in a very small company with fast-changing business environment?
+## Is it possible to use balanced scorecard in a very small company with fast-changing business environment?
 
 Yes, using a balanced scorecard (BSC) in a small company with a fast-changing business environment is possible
 and can be highly beneficial, though it may need to be adapted to suit the company's size and the dynamic nature
@@ -81,7 +81,7 @@ Here’s how and why it can work:
 By customizing the BSC for simplicity and agility, even a small business in a fast-paced market can leverage its benefits.
 This keeps the focus on what's most important and enables quick adjustments as conditions change.
 
-### What is MBO?
+## What is MBO?
 
 Management by Objectives (MBO) is a performance management approach in which managers and employees work together to set, track, and achieve specific objectives aligned with organizational goals. Developed by Peter Drucker in the 1950s, MBO focuses on aligning individual goals with the company’s broader objectives, fostering clear communication, and motivating employees by involving them in the goal-setting process.
 
@@ -107,7 +107,7 @@ Overemphasis on Goals: An intense focus on achieving specific objectives can som
 Difficulty Adapting: In a rapidly changing environment, objectives may need frequent adjustments, which can be challenging within a structured MBO framework.
 Overall, MBO provides a systematic approach to goal-setting and performance management that emphasizes accountability, alignment, and communication between employees and management.
 
-### Can MBO be applied in a very small company with fast-changing business environment?
+## Can MBO be applied in a very small company with fast-changing business environment?
 
 Yes, MBO can be applied in a very small company with a fast-changing business environment, but it may require some adaptations to make it practical and effective. Here are some considerations for implementing MBO in such a context:
 
@@ -127,7 +127,7 @@ Maintain Motivation with Immediate Feedback and Rewards: Small businesses can us
 
 In short, MBO can work well in a small, dynamic company by keeping the process agile and focused on high-impact, short-term goals. This approach can help small teams stay aligned and responsive to changes without the burden of excessive structure.
 
-### What is Six Sigma?
+## What is Six Sigma?
 
 Six Sigma is a data-driven methodology aimed at improving business processes by identifying and eliminating defects or inefficiencies, reducing variability, and improving quality. Originally developed by Motorola in the 1980s, Six Sigma became popular after General Electric (GE) adopted it under the leadership of Jack Welch in the 1990s.
 
@@ -165,7 +165,7 @@ Six Sigma is particularly useful for organizations that need high-quality standa
 
 In summary, Six Sigma is a structured, data-driven approach to improving quality and efficiency in business processes by reducing variability and defects, which can lead to substantial cost savings and greater customer satisfaction.
 
-### Does it make sense to use Six Sigma in a very small software development company with fast changing business environment?
+## Does it make sense to use Six Sigma in a very small software development company with fast changing business environment?
 
 Using Six Sigma in a very small software development company with a fast-changing business environment can offer benefits but may require substantial adaptation to be practical and effective. Here are some considerations to determine whether it makes sense and how to make Six Sigma work in this context:
 
@@ -198,7 +198,7 @@ Conclusion
 For a very small software company with a rapidly changing environment, a full Six Sigma program might be excessive. However, selectively using Six Sigma tools and principles, especially in areas where process inefficiencies or quality issues impact customer satisfaction, can provide value. By keeping it lean and integrating it with Agile practices, the company can benefit from Six Sigma without compromising its need for speed and adaptability.
 
 
-### How to combine BSC, MBO and Six Sigma and adapt it for a very small software company with fast changing business environment?
+## How to combine BSC, MBO and Six Sigma and adapt it for a very small software company with fast changing business environment?
 
 Combining Balanced Scorecard (BSC), Management by Objectives (MBO), and Six Sigma in a very small, fast-changing software company can be achieved by creating a streamlined, flexible approach that leverages the strengths of each method without overwhelming the team. Here’s how you could adapt each framework to create a hybrid system tailored to the company's needs:
 
