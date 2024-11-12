@@ -6,7 +6,7 @@ The Balanced Scorecard (BSC) is a strategic management tool that helps organizat
 into a set of performance measures across four key perspectives. Developed in the early 1990s by Robert Kaplan and David Norton,
 the BSC aims to provide a more comprehensive view of organizational performance beyond traditional financial metrics.
 
-The four perspectives of the Balanced Scorecard are:
+### The four perspectives of the Balanced Scorecard are:
 
 - **Financial Perspective**
  
@@ -40,7 +40,7 @@ Yes, using a balanced scorecard (BSC) in a small company with a fast-changing bu
 and can be highly beneficial, though it may need to be adapted to suit the company's size and the dynamic nature
 of its environment.
 
-Here’s how and why it can work:
+### Here’s how and why it can work:
 
 - **Strategic Clarity and Focus**
 
@@ -83,23 +83,52 @@ This keeps the focus on what's most important and enables quick adjustments as c
 
 ## What is MBO?
 
-Management by Objectives (MBO) is a performance management approach in which managers and employees work together to set, track, and achieve specific objectives aligned with organizational goals. Developed by Peter Drucker in the 1950s, MBO focuses on aligning individual goals with the company’s broader objectives, fostering clear communication, and motivating employees by involving them in the goal-setting process.
+Management by Objectives (MBO) is a performance management approach in which **managers and employees** work together
+to set, track, and achieve specific objectives **aligned with organizational goals**.
+Developed by Peter Drucker in the 1950s, MBO focuses on aligning individual goals with the company’s broader objectives,
+fostering clear communication, and motivating employees by involving them in the goal-setting process.
 
-The main steps in the MBO process include:
+### The main steps in the MBO process include:
 
-Setting Objectives: Managers and employees collaboratively define clear, measurable, and time-bound objectives that support organizational goals. This process ensures that each employee’s goals contribute directly to the company's strategic priorities.
+- **Setting Objectives**
+ 
+  Managers and employees collaboratively define clear, measurable, and time-bound objectives that support organizational goals.
+  This process ensures that each employee’s goals contribute directly to the company's strategic priorities.
 
-Developing Action Plans: Each objective is broken down into actionable steps or tasks that outline how the goals will be achieved. This helps employees know exactly what needs to be done and provides a roadmap for success.
+ 
+- **Developing Action Plans**
+ 
+  Each objective is broken down into actionable steps or tasks that outline how the goals will be achieved.
+  This helps employees know exactly what needs to be done and provides a roadmap for success.
 
-Monitoring and Evaluation: Managers periodically review progress toward objectives with employees. Regular check-ins allow for adjustments if needed and provide opportunities for feedback and support.
 
-Performance Evaluation and Reward: At the end of the performance period, managers evaluate how well the objectives were met and reward employees based on their achievement. Rewards may include bonuses, promotions, or other incentives, aligning recognition with results.
+- **Monitoring and Evaluation**
+ 
+  Managers periodically review progress toward objectives with employees.
+  Regular check-ins allow for adjustments if needed and provide opportunities for feedback and support.
 
-Benefits of MBO:
 
-Clear Direction and Alignment: Ensures employees know what is expected of them and how their work supports larger goals.
-Employee Motivation and Engagement: Involving employees in goal-setting can increase their commitment and motivation to achieve those goals.
-Performance Transparency: MBO makes it easier to assess performance because success is defined by specific, measurable objectives.
+- **Performance Evaluation and Reward**
+ 
+  At the end of the performance period, managers evaluate how well the objectives were met and reward employees
+  based on their achievement. Rewards may include bonuses, promotions, or other incentives, aligning recognition with results.
+
+### Benefits of MBO:
+
+- **Clear Direction and Alignment**
+ 
+  Ensures employees know what is expected of them and how their work supports larger goals.
+
+
+- **Employee Motivation and Engagement**
+ 
+  Involving employees in goal-setting can increase their commitment and motivation to achieve those goals.
+
+ 
+- **Performance Transparency**:
+ 
+  MBO makes it easier to assess performance because success is defined by specific, measurable objectives.
+
 Challenges of MBO:
 
 Time-Consuming: Setting and reviewing individual objectives can require significant time and effort.
