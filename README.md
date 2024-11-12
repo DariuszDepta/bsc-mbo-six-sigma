@@ -203,41 +203,65 @@ some adaptations to make it practical and effective.
 
 ## What is Six Sigma?
 
-Six Sigma is a data-driven methodology aimed at improving business processes by identifying and eliminating defects or inefficiencies, reducing variability, and improving quality. Originally developed by Motorola in the 1980s, Six Sigma became popular after General Electric (GE) adopted it under the leadership of Jack Welch in the 1990s.
+Six Sigma is a data-driven methodology aimed at improving business processes by identifying and eliminating
+defects or inefficiencies, reducing variability, and improving quality. Originally developed by Motorola in the 1980s,
+Six Sigma became popular after General Electric (GE) adopted it under the leadership of Jack Welch in the 1990s.
 
-The primary goal of Six Sigma is to achieve near-perfection in processes, ideally reaching a level where only 3.4 defects per million opportunities occur. This level of quality ensures high consistency, customer satisfaction, and cost savings by reducing errors and waste.
+> The primary goal of Six Sigma is to achieve near-perfection in processes, ideally reaching a level
+> where only 3.4 defects per million opportunities occur. This level of quality ensures high consistency,
+> customer satisfaction, and cost savings by reducing errors and waste.
 
-Key Concepts of Six Sigma
+### Key Concepts of Six Sigma
 
-DMAIC Framework: Six Sigma projects typically follow the DMAIC process:
+#### DMAIC Framework
 
-Define: Identify the problem or improvement area, define the project goals, and specify the customer’s needs.
-Measure: Collect data and establish baseline metrics to quantify the problem.
-Analyze: Identify root causes of the problem by analyzing the data.
-Improve: Develop and implement solutions to eliminate root causes.
-Control: Implement controls to sustain improvements over time.
-Six Sigma Belt System: Six Sigma practitioners follow a structured certification hierarchy, often described as "belts" (similar to martial arts):
+Six Sigma projects typically follow the DMAIC process:
 
-Yellow Belt: Basic understanding of Six Sigma principles.
-Green Belt: Knowledge to lead small projects and assist with data collection and analysis.
-Black Belt: Expertise in Six Sigma tools, leading larger projects.
-Master Black Belt: Leadership role, coaching Black Belts and strategizing Six Sigma implementation across an organization.
-Champion: Executive sponsor who ensures Six Sigma aligns with organizational goals.
-Data-Driven Decision-Making: Six Sigma relies heavily on statistical tools and data analysis to make decisions, identify variations, and confirm process improvements. Commonly used tools include Pareto charts, Fishbone diagrams, control charts, and process mapping.
+- **Define**: Identify the problem or improvement area, define the project goals, and specify the customer’s needs.
+- **Measure**: Collect data and establish baseline metrics to quantify the problem.
+- **Analyze**: Identify root causes of the problem by analyzing the data.
+- **Improve**: Develop and implement solutions to eliminate root causes.
+- **Control**: Implement controls to sustain improvements over time.
 
-Reducing Variation: Six Sigma aims to reduce process variability to ensure that outputs consistently meet customer expectations. By controlling variation, organizations can reduce defects, waste, and inefficiencies.
+#### Six Sigma Belt System
 
-Benefits of Six Sigma
-Improved Quality: By minimizing defects and variability, products or services consistently meet customer expectations.
-Cost Savings: Process improvements often lead to reduced waste, rework, and resource consumption, which lowers costs.
-Enhanced Customer Satisfaction: Reliable, high-quality outputs improve customer satisfaction and loyalty.
-Increased Efficiency: Streamlined processes lead to faster, more efficient workflows.
-Employee Involvement: Six Sigma encourages employees at all levels to participate in improvement initiatives, which can lead to higher engagement and a culture of continuous improvement.
-When to Use Six Sigma
+Six Sigma practitioners follow a structured certification hierarchy, often described as "belts" (similar to martial arts):
 
-Six Sigma is particularly useful for organizations that need high-quality standards or operate in highly regulated industries (e.g., manufacturing, healthcare, finance). However, its principles can be adapted for various industries and organizations, even smaller businesses, by simplifying the approach and focusing on high-impact areas.
+- **Yellow Belt**: Basic understanding of Six Sigma principles.
+- **Green Belt**: Knowledge to lead small projects and assist with data collection and analysis.
+- **Black Belt**: Expertise in Six Sigma tools, leading larger projects.
+- **Master Black Belt**: Leadership role, coaching Black Belts and strategizing Six Sigma implementation across an organization.
+- **Champion**: Executive sponsor who ensures Six Sigma aligns with organizational goals.
 
-In summary, Six Sigma is a structured, data-driven approach to improving quality and efficiency in business processes by reducing variability and defects, which can lead to substantial cost savings and greater customer satisfaction.
+#### Data-Driven Decision-Making
+
+Six Sigma relies heavily on statistical tools and data analysis to make decisions, identify variations,
+and confirm process improvements. Commonly used tools include Pareto charts, Fishbone diagrams, control charts,
+and process mapping.
+
+#### Reducing Variation
+
+Six Sigma aims to reduce process variability to ensure that outputs consistently meet customer expectations.
+By controlling variation, organizations can reduce defects, waste, and inefficiencies.
+
+### Benefits of Six Sigma
+
+- **Improved Quality**: By minimizing defects and variability, products or services consistently meet customer expectations.
+- **Cost Savings**: Process improvements often lead to reduced waste, rework, and resource consumption, which lowers costs.
+- **Enhanced Customer Satisfaction**: Reliable, high-quality outputs improve customer satisfaction and loyalty.
+- **Increased Efficiency**: Streamlined processes lead to faster, more efficient workflows.
+- **Employee Involvement**: Six Sigma encourages employees at all levels to participate in improvement initiatives,
+  which can lead to higher engagement and a culture of continuous improvement.
+
+### When to Use Six Sigma
+
+Six Sigma is particularly useful for organizations that need high-quality standards or operate in highly
+regulated industries (e.g., manufacturing, healthcare, finance). However, its principles can be adapted for various
+industries and organizations, even smaller businesses, by simplifying the approach and focusing on high-impact areas.
+
+> In summary, Six Sigma is a structured, data-driven approach to improving quality and efficiency in business
+> processes by reducing variability and defects, which can lead to substantial cost savings
+> and greater customer satisfaction.
 
 ## Does it make sense to use Six Sigma in a very small software development company with fast changing business environment?
 
