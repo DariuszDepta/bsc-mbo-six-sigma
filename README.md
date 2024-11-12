@@ -1,5 +1,39 @@
 # (no title yet)
 
+### What is BSC?
+
+The Balanced Scorecard (BSC) is a strategic management tool that helps organizations translate their vision and strategy
+into a set of performance measures across four key perspectives. Developed in the early 1990s by Robert Kaplan and David Norton,
+the BSC aims to provide a more comprehensive view of organizational performance beyond traditional financial metrics.
+
+The four perspectives of the Balanced Scorecard are:
+
+- **Financial Perspective**
+ 
+  This includes traditional financial measures, such as revenue growth, profit margins, and return on investment.
+  It answers the question: _**How do we look to our shareholders?**_
+
+- **Customer Perspective**
+ 
+  This focuses on customer satisfaction, retention, and acquisition. Typical metrics include customer satisfaction scores,
+  market share, and customer loyalty. It addresses the question: _**How do our customers view us?**_
+
+- **Internal Process Perspective**
+ 
+  This involves improving internal processes to drive value for customers and achieve financial goals.
+  Metrics here might focus on process efficiency, quality, and innovation.
+  This perspective asks: _**What must we excel at internally to satisfy customers and financial goals?**_
+
+- **Learning and Growth Perspective**
+ 
+  This looks at the organization’s ability to innovate and improve over time, emphasizing employee skills,
+  training, and corporate culture. It addresses the question: _**How can we continue to improve and create value?**_
+
+The Balanced Scorecard enables organizations to take a balanced approach to performance measurement,
+combining both leading (predictive) and lagging (historical) indicators. This provides a holistic
+view of the organization’s health, aligns day-to-day work with strategic objectives,
+and facilitates better decision-making across all levels of the organization.
+
 ### Is it possible to use balanced scorecard in a very small company with fast-changing business environment?
 
 Yes, using a balanced scorecard (BSC) in a small company with a fast-changing business environment is possible
