@@ -13,10 +13,10 @@ By combining these three powerful tools, my planned doctoral work aimed to demon
 could simultaneously improve quality, align goals, foster accountability, and benefit from
 an ever-growing and learning workforce.
 
-Today, however, instead of writing and reading doctoral dissertations,
-one can simply ask ChatGPT.
+Today, however, instead of writing and reading doctoral dissertations, one can simply ask ChatGPT.
 
-A sample Q&A session is presented below.
+A sample Q&A session is presented below, focusing on a small software development company
+operating in a fast-changing business environment.  
 
 ## What is BSC?
 
