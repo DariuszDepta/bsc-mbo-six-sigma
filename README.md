@@ -29,10 +29,10 @@ the BSC aims to provide a more comprehensive view of organizational performance 
   This looks at the organization’s ability to innovate and improve over time, emphasizing employee skills,
   training, and corporate culture. It addresses the question: _**How can we continue to improve and create value?**_
 
-The Balanced Scorecard enables organizations to take a balanced approach to performance measurement,
-combining both leading (predictive) and lagging (historical) indicators. This provides a holistic
-view of the organization’s health, aligns day-to-day work with strategic objectives,
-and facilitates better decision-making across all levels of the organization.
+> The Balanced Scorecard enables organizations to take a balanced approach to performance measurement,
+> combining both leading (predictive) and lagging (historical) indicators. This provides a holistic
+> view of the organization’s health, aligns day-to-day work with strategic objectives,
+> and facilitates better decision-making across all levels of the organization.
 
 ## Is it possible to use balanced scorecard in a very small company with fast-changing business environment?
 
@@ -78,8 +78,8 @@ of its environment.
   A BSC ensures balanced attention to all areas essential for sustainable growth, like employee development
   or internal process efficiency, which helps build resilience.
 
-By customizing the BSC for simplicity and agility, even a small business in a fast-paced market can leverage its benefits.
-This keeps the focus on what's most important and enables quick adjustments as conditions change.
+> By customizing the BSC for simplicity and agility, even a small business in a fast-paced market can leverage its benefits.
+> This keeps the focus on what's most important and enables quick adjustments as conditions change.
 
 ## What is MBO?
 
@@ -129,12 +129,24 @@ fostering clear communication, and motivating employees by involving them in the
  
   MBO makes it easier to assess performance because success is defined by specific, measurable objectives.
 
-Challenges of MBO:
+### Challenges of MBO:
 
-Time-Consuming: Setting and reviewing individual objectives can require significant time and effort.
-Overemphasis on Goals: An intense focus on achieving specific objectives can sometimes lead employees to overlook important aspects of their roles or adopt a short-term mindset.
-Difficulty Adapting: In a rapidly changing environment, objectives may need frequent adjustments, which can be challenging within a structured MBO framework.
-Overall, MBO provides a systematic approach to goal-setting and performance management that emphasizes accountability, alignment, and communication between employees and management.
+- **Time-Consuming**
+ 
+  Setting and reviewing individual objectives can require significant time and effort.
+ 
+- **Overemphasis on Goals**
+ 
+  An intense focus on achieving specific objectives can sometimes lead employees to overlook important
+  aspects of their roles or adopt a short-term mindset.
+ 
+- **Difficulty Adapting**
+ 
+  In a rapidly changing environment, objectives may need frequent adjustments, which can be challenging
+  within a structured MBO framework.
+ 
+> Overall, MBO provides a systematic approach to goal-setting and performance management that emphasizes accountability,
+> alignment, and communication between employees and management.
 
 ## Can MBO be applied in a very small company with fast-changing business environment?
 
