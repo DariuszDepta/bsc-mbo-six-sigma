@@ -1,5 +1,23 @@
 # (no title yet)
 
+## Introduction
+
+This article is based on core concepts I originally developed with the intention of exploring them
+in a doctoral dissertation, which, while never formally undertaken, laid the groundwork for the insights shared here.
+
+The planned research was intended to focus on integrating the Balanced Scorecard (BSC),
+Management by Objectives (MBO), and Six Sigma methodologies into a cohesive approach,
+aiming to enable companies to achieve high efficiency and strategic alignment.
+
+By combining these three powerful tools, my planned doctoral work aimed to demonstrate how organizations
+could simultaneously improve quality, align goals, foster accountability, and benefit from
+an ever-growing and learning workforce.
+
+Today, however, instead of writing and reading doctoral dissertations,
+one can simply ask ChatGPT.
+
+A sample Q&A session is presented below.
+
 ## What is BSC?
 
 The Balanced Scorecard (BSC) is a strategic management tool that helps organizations translate their vision and strategy
