@@ -150,23 +150,56 @@ fostering clear communication, and motivating employees by involving them in the
 
 ## Can MBO be applied in a very small company with fast-changing business environment?
 
-Yes, MBO can be applied in a very small company with a fast-changing business environment, but it may require some adaptations to make it practical and effective. Here are some considerations for implementing MBO in such a context:
+Yes, MBO can be applied in a very small company with a fast-changing business environment, but it may require
+some adaptations to make it practical and effective.
 
-Set Shorter Goal Cycles: In a fast-changing environment, traditional MBO cycles (often annually) may not be flexible enough. Instead, goals could be set for shorter periods, such as quarterly or even monthly, to allow for faster adaptation to new business realities and market changes.
+### Here are some considerations for implementing MBO in such a context:
 
-Prioritize Agility in Goal-Setting: Rather than setting rigid objectives, focus on goals that are broad enough to allow flexibility in how they’re achieved. For example, instead of a highly specific goal, a small company might focus on objectives like "increase customer engagement" with flexibility in tactics as conditions change.
+- **Set Shorter Goal Cycles**
+ 
+  In a fast-changing environment, traditional MBO cycles (often annually) may not be flexible enough.
+  Instead, goals could be set for shorter periods, such as quarterly or even monthly, to allow for faster adaptation
+  to new business realities and market changes.
 
-Involve Employees in Dynamic Goal Adjustments: In a small company, open and frequent communication is easier to achieve. Regular check-ins allow for ongoing alignment and adjustment of goals based on market shifts or new business priorities, keeping employees engaged and adaptive.
+- **Prioritize Agility in Goal-Setting**
+ 
+  Rather than setting rigid objectives, focus on goals that are broad enough to allow flexibility in how they’re achieved.
+  For example, instead of a highly specific goal, a small company might focus on objectives
+  like "increase customer engagement" with flexibility in tactics as conditions change.
 
-Focus on Critical, High-Impact Objectives: Since resources in small businesses are often limited, it’s crucial to focus on objectives that will have the most immediate impact. This selective focus helps ensure that energy and resources are directed toward activities that align with the company's strategic needs.
+- **Involve Employees in Dynamic Goal Adjustments**
+ 
+  In a small company, open and frequent communication is easier to achieve.
+  Regular check-ins allow for ongoing alignment and adjustment of goals based on market shifts
+  or new business priorities, keeping employees engaged and adaptive.
 
-Simplify the Process: Avoid lengthy documentation or formalities. Small companies with fast-changing environments benefit from a lean approach to MBO, where goals are discussed, recorded, and adjusted in a straightforward way. This helps save time and keeps everyone focused on execution.
+- **Focus on Critical High-Impact Objectives**
+ 
+  Since resources in small businesses are often limited, it’s crucial to focus on objectives that will have
+  the most immediate impact. This selective focus helps ensure that energy and resources are directed toward
+  activities that align with the company's strategic needs.
 
-Emphasize Learning and Growth: As the business landscape evolves, an emphasis on learning and continuous improvement can keep the company agile. Encourage employees to set learning objectives alongside performance goals to build new skills that will help the company respond to changes.
+- **Simplify the Process**
+ 
+  Avoid lengthy documentation or formalities. Small companies with fast-changing environments benefit
+  from a lean approach to MBO, where goals are discussed, recorded, and adjusted in a straightforward way.
+  This helps save time and keeps everyone focused on execution.
 
-Maintain Motivation with Immediate Feedback and Rewards: Small businesses can use the MBO approach to motivate employees by providing timely feedback and recognition for progress. Because the environment is fast-paced, rewards and acknowledgments need to be timely and aligned with short-term wins.
+- **Emphasize Learning and Growth**
+ 
+  As the business landscape evolves, an emphasis on learning and continuous improvement can keep the company agile.
+  Encourage employees to set learning objectives alongside performance goals to build new skills that will help the
+  company respond to changes.
 
-In short, MBO can work well in a small, dynamic company by keeping the process agile and focused on high-impact, short-term goals. This approach can help small teams stay aligned and responsive to changes without the burden of excessive structure.
+- **Maintain Motivation with Immediate Feedback and Rewards**
+ 
+  Small businesses can use the MBO approach to motivate employees by providing timely feedback
+  and recognition for progress. Because the environment is fast-paced, rewards and acknowledgments need
+  to be timely and aligned with short-term wins.
+
+> In short, MBO can work well in a small, dynamic company by keeping the process agile and focused on high-impact,
+> short-term goals. This approach can help small teams stay aligned and responsive to changes
+> without the burden of excessive structure.
 
 ## What is Six Sigma?
 
