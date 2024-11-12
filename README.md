@@ -423,7 +423,7 @@ focusing on areas where defects or inefficiencies directly impact customer satis
 
 Here’s a step-by-step approach for this hybrid framework:
 
-- **Define Quarterly Strategic Goals with BSC*
+- **Define Quarterly Strategic Goals with BSC**
  
   Use the Balanced Scorecard to set quarterly strategic goals that capture the most important
   company-wide priorities across four perspectives.
