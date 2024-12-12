@@ -474,6 +474,8 @@ Here’s a step-by-step approach for this hybrid framework:
 > this hybrid system helps the company stay focused on quality and efficiency without losing flexibility.
 > This can ultimately drive both short-term responsiveness and long-term improvement in a rapidly changing environment.
 
+---
+
 **Me**: Thank you for your help.
 
 **ChatGPT**:
