@@ -1,4 +1,4 @@
-# (no title yet)
+# BSC => MBO => Six Sigma
 
 ## Introduction
 
